@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import LoginPage from './components/login'
 import First from './components/first'
 import CustomerMenu from './components/CustomerMenu'
-import About from './components/about'
+import About from './components/About'
 import Contact from './components/Contact'
 import StudentMenu from './components/StudentMenu'
 
